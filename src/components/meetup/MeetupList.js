@@ -9,7 +9,7 @@ function MeetupList(props) {
                 key = {meetup.id}
                 id ={meetup.id}
                 title={meetup.title}
-                dsecription ={meetup.dsecription}
+                description ={meetup.description}
                 image = {meetup.image}
                 address = {meetup.address}
             />)}
